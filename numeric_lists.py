@@ -4,7 +4,6 @@ for value in range(1,21):
 
 #Counting from 1 to 5 and then adding them as list items
 numbers = [] #first create an empty list
-
 for value in range(1,6):
     numbers.append(value)
 print(numbers)
@@ -29,6 +28,7 @@ numbers = [] #first create an empty list
 for value in range(3,31,3):
     numbers.append(value)
 print("This is a list of multiples of 3 upto 30: " + str(numbers))
+print("Se on valmis"
 
 
 
