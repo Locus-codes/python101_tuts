@@ -7,6 +7,8 @@ dimensions = (5,9)
 print("This a modified version: ")
 print(dimensions)
 
+dimensions[0] = 4  # This will raise a type error
+
 # tuple implementation
 foods = ('rice','fufu','porridge','pasta','pizza')
 
