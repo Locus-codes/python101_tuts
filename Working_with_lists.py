@@ -26,3 +26,5 @@ for animal in animals:
     print("I love " + animal)
 
 print("\nAll these animals have 4 limbs.")
+
+print("tetelestai")
