@@ -46,4 +46,6 @@ numbers = [3,6,9,12,15,18,21,24,27,30]
 for number in numbers[0:3]:
     print(number)
 
+print("Consummatum est")
+
 
