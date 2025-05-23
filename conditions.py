@@ -88,5 +88,7 @@ if alien_colors == 'green':
 else:
     print("Player just earned 10 points!")
 
+print("הוּא כְּבָר כָּלֹּי")
+
 
 
